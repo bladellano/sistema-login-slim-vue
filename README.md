@@ -33,5 +33,21 @@ $ npm run dev
 ```
 Se tudo ocorreu bem, no terminal surgirá a url para clicar e abrir a tela de login: `http://localhost:porta`
 
+#### Comandos utlizados durante o desenvolvimento:
+```sh
+npm init -y
+
+npm i
+npm i webpack webpack-cli -D
+npm i axios
+
+npm uninstall eslint
+npm uninstall eslint-plugin-vue
+npx eslint --init
+
+npm i axios
+npm run dev
+```
+
 ### Referências:
 [Sistema de Login com Vue 3](https://www.youtube.com/watch?v=He-TTa6Y3bo&list=PLyugqHiq-SKcDiCq0182RiqHQwX_wU9ou&t=3434s) - [Clube Full-Stack](https://www.youtube.com/@AlexandreCardoso)
