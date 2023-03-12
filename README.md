@@ -1,6 +1,6 @@
 # Sistema de login com Slim 4 + Vue
 
-Sistema simples de login com Slim Framework com Vue 3, com a separação de pastas backend e frontend.
+Sistema simples de login com Slim Framework e Vue 3, com a separação de pastas backend e frontend.
 
 # Levantando o backend
 
